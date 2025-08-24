@@ -1,0 +1,10 @@
+# OSファイル
+.DS_Store
+Thumbs.db
+
+# ログと一時ファイル
+*.log
+*.tmp
+
+#作業用
+/private_work/
